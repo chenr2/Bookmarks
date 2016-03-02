@@ -13,4 +13,6 @@
 
 ### Reading List
 
-[![tvOS Apprentice](http://cdn5.raywenderlich.com/wp-content/themes/raywenderlich/images/store-2015/small/tvt@2x.png)](http://www.raywenderlich.com/store/tvos-apprentice) [![Protocol Oriented Programming Swift](http://ecx.images-amazon.com/images/I/5123tHcvqKL._SX419_BO1,204,203,200_.jpg)](http://www.amazon.com/Protocol-Oriented-Programming-Swift-Jon-Hoffman-ebook/dp/B01BDQK5GS/)
+[![tvOS Apprentice](/tvos.png)](http://www.raywenderlich.com/store/tvos-apprentice) 
+
+[![Protocol Oriented Programming Swift](/protocolOriented.jpeg)](http://www.amazon.com/Protocol-Oriented-Programming-Swift-Jon-Hoffman-ebook/dp/B01BDQK5GS/)
