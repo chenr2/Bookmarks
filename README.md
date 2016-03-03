@@ -12,6 +12,7 @@
 * [Ray Wenderlich: Testing in iOS](http://www.raywenderlich.com/118547/video-tutorial-testing-in-ios-series-introduction) - Video series, subscription
 * [Ray Wenderlich: Unit Testing with Ellen Shapiro](http://www.raywenderlich.com/91410/unit-testing-ellen-shapiro-podcast-s02-e10) - Podcast episode
 * [Ray Wenderlich: Unit Testing Tutorial: Mocking Objects](http://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects)
+* [ナターシャ ザ ロボット: Swift 2 + Xcode 7: Unit Testing Access Made Easy](https://www.natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
 * [AppCoda: Unit Testing in Xcode 7](http://www.appcoda.com/unit-testing-swift/)
 * [WWDC: Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/)
 
