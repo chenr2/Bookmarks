@@ -18,4 +18,4 @@
 
 ### Reading List
 
-[<img src="/tvos.png"  width="150" >](http://www.raywenderlich.com/store/tvos-apprentice) [<img src="/protocolOriented.jpeg" width="150">](http://www.amazon.com/Protocol-Oriented-Programming-Swift-Jon-Hoffman-ebook/dp/B01BDQK5GS/) [<img src="/protocolOriented.jpeg" width="150">](http://shop.waynewbishop.com/products/swift-algorithms-book)
+[<img src="/tvos.png"  width="150" >](http://www.raywenderlich.com/store/tvos-apprentice) [<img src="/protocolOriented.jpeg" width="150">](http://www.amazon.com/Protocol-Oriented-Programming-Swift-Jon-Hoffman-ebook/dp/B01BDQK5GS/) [<img src="/algorithms.jpg" width="150">](http://shop.waynewbishop.com/products/swift-algorithms-book)
