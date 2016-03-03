@@ -4,7 +4,10 @@
 
 ### Maps
 
+#### MKLocalSearch
+
 * [NSHipster: MKLocal​Search](http://nshipster.com/mklocalsearch/)
+* [Little Bites of Cocoa: MKLocalSearch](https://littlebitesofcocoa.com/47-mklocalsearch)
 
 ### tvOS
 
