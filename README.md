@@ -2,6 +2,10 @@
 
 ## Swift
 
+### Maps
+
+* [NSHipster: MKLocal​Search](http://nshipster.com/mklocalsearch/)
+
 ### tvOS
 
 * 🎥[Ray Wenderlich: Beginning Native tvOS Apps](http://www.raywenderlich.com/120190/video-tutorial-beginning-native-tvos-apps-series-introduction) - Subscription
