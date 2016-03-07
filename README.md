@@ -26,6 +26,7 @@
 ### UI Automation
 
 * 🎥[WWDC: UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406/)
+* [Joe Masilotti: UI Testing Cheat Sheet and Examples](http://masilotti.com/ui-testing-cheat-sheet/)
 
 ### Style Guides
 
