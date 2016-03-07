@@ -40,4 +40,4 @@
 
 ### Reading List
 
-[<img src="/watchos2.png"  width="150" >](http://www.raywenderlich.com/store/watchos-2-by-tutorials) [<img src="/tvos.png"  width="150" >](http://www.raywenderlich.com/store/tvos-apprentice) [<img src="/protocolOriented.jpeg" width="150">](http://www.amazon.com/Protocol-Oriented-Programming-Swift-Jon-Hoffman-ebook/dp/B01BDQK5GS/) [<img src="/algorithms.jpg" width="150">](http://shop.waynewbishop.com/products/swift-algorithms-book)
+[<img src="/ios9tutorials.png"  width="150" >](https://www.raywenderlich.com/store/ios-9-by-tutorials) [<img src="/watchos2.png"  width="150" >](http://www.raywenderlich.com/store/watchos-2-by-tutorials) [<img src="/tvos.png"  width="150" >](http://www.raywenderlich.com/store/tvos-apprentice) [<img src="/protocolOriented.jpeg" width="150">](http://www.amazon.com/Protocol-Oriented-Programming-Swift-Jon-Hoffman-ebook/dp/B01BDQK5GS/) [<img src="/algorithms.jpg" width="150">](http://shop.waynewbishop.com/products/swift-algorithms-book)
