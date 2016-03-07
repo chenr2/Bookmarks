@@ -23,10 +23,11 @@
 * [AppCoda: Unit Testing in Xcode 7](http://www.appcoda.com/unit-testing-swift/)
 * 🎥[WWDC: Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/)
 
-### UI Automation
+### UI Testing
 
 * 🎥[WWDC: UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406/)
 * [Joe Masilotti: UI Testing Cheat Sheet and Examples](http://masilotti.com/ui-testing-cheat-sheet/)
+* iOS 9 by Tutorials, page 248-255
 
 ### Style Guides
 
