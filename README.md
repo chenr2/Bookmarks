@@ -22,6 +22,7 @@
 * [ナターシャ ザ ロボット: Swift 2 + Xcode 7: Unit Testing Access Made Easy](https://www.natashatherobot.com/swift-2-xcode-7-unit-testing-access/)
 * [AppCoda: Unit Testing in Xcode 7](http://www.appcoda.com/unit-testing-swift/)
 * 🎥[WWDC: Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/)
+* iOS 9 by Tutorials, page 239-248
 
 ### UI Testing
 
