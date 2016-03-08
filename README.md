@@ -23,6 +23,8 @@
 * [AppCoda: Unit Testing in Xcode 7](http://www.appcoda.com/unit-testing-swift/)
 * 🎥[WWDC: Continuous Integration and Code Coverage in Xcode](https://developer.apple.com/videos/play/wwdc2015/410/)
 * iOS 9 by Tutorials, page 239-248
+* iOS 8 by Tutorials, Chapter 29
+* iOS 7 by Tutorials, Chapter 11
 
 ### UI Testing
 
