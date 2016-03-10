@@ -25,6 +25,7 @@
 * iOS 9 by Tutorials, page 239-248
 * iOS 8 by Tutorials, Chapter 29
 * iOS 7 by Tutorials, Chapter 11
+* 🎥 [Realm: Unit Testing in Swift 2.0](https://realm.io/news/jorge-ortiz-unit-testing-swift-2/)
 
 ### UI Testing
 
