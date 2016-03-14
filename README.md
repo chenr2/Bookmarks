@@ -32,6 +32,8 @@
 * 🎥[WWDC: UI Testing in Xcode](https://developer.apple.com/videos/play/wwdc2015/406/)
 * [Joe Masilotti: UI Testing Cheat Sheet and Examples](http://masilotti.com/ui-testing-cheat-sheet/)
 * iOS 9 by Tutorials, page 248-255
+* [Shinobi Controls: iOS9 Day-by-Day :: Day 2 :: UI Testing](https://www.shinobicontrols.com/blog/ios9-day-by-day-day2-ui-testing)
+* [Felix Krause: Run Xcode 7 UI Tests from the command line](https://krausefx.com/blog/run-xcode-7-ui-tests-from-the-command-line)
 
 ### Style Guides
 
