@@ -34,6 +34,7 @@
 * iOS 9 by Tutorials, page 248-255
 * [Shinobi Controls: iOS9 Day-by-Day :: Day 2 :: UI Testing](https://www.shinobicontrols.com/blog/ios9-day-by-day-day2-ui-testing)
 * [Felix Krause: Run Xcode 7 UI Tests from the command line](https://krausefx.com/blog/run-xcode-7-ui-tests-from-the-command-line)
+* RWDevCon: Ellen Shapiro's 2016 talk on UI Testing
 
 ### Style Guides
 
